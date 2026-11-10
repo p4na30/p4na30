@@ -29,8 +29,8 @@ I am a Cybersecurity student and Web Developer. I focus on building secure, fast
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-koi-dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="github-koi-light.gif">
+    <source media="(prefers-color-scheme: dark)" srcset="koi/koi.gif">
+    <source media="(prefers-color-scheme: light)" srcset="koi/koi.gif">
     <img alt="My Git Koi" src="koi/koi.gif">
   </picture>
 </div>
