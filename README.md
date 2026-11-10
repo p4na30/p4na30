@@ -25,8 +25,6 @@ I am a Cybersecurity student and Web Developer. I focus on building secure, fast
 
 ---
 
-### My Activity on GitHub
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="koi/koi.gif">
