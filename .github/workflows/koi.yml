@@ -1,0 +1,24 @@
+name: GitHub Profile Koi
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v4
+
+      - name: Generar git-profile-koi
+        uses: yalongwastaken/git-koi@v1.0.2
+
+      - name: Guardar archivos generados
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Actualizar animaciones del Koi 🐟"
