@@ -35,13 +35,6 @@ I am a Cybersecurity student and Web Developer. I focus on building secure, fast
   </picture>
 </div>
 
-### My STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=p4na30&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&v=1" alt="Diego's Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4na30&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&v=1" alt="Top Languages" height="195" />
-</p>
-
 ---
 
 ### Experience & Interests
