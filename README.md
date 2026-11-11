@@ -20,19 +20,19 @@
 
 I build web applications with security in mind from the first commit, not as an afterthought. In practice, that means:
 
-- **Application layer:** input validation, authentication and authorization hardening, and protection against common OWASP Top 10 issues.
-- **Data layer:** parameterized queries, least-privilege database access, and careful handling of sensitive data.
-- **Delivery pipeline:** exploring how to bring automated security checks (dependency scanning, SAST, container scanning) into CI/CD workflows.
+- **Application layer:** Input validation, Authentication and authorization hardening & Protection against common OWASP Top 10.
+- **Data layer:** Parameterized queries, Least-Privilege database access & Careful handling of Sensitive Data.
+- **Delivery pipeline:** Exploring how to bring automated security checks (Dependency scanning, SAST, Container scanning) into CI/CD Workflows.
 
 ## What I do
 
-- Building management portals, process automation, and internal platforms.
-- Exploring DevSecOps architectures: security in CI/CD workflows and application security (AppSec).
-- Contributing to open-source projects and the wider web ecosystem.
+- Building management portals, Process Automation & Internal Platforms.
+- Exploring DevSecOps architectures: Security in CI/CD Workflows and Application Security (AppSec).
+- Contributing to Open-Source Projects and the Wider Web Ecosystem.
 
 ## Security focus
 
-- **Currently learning:** Ethical Hacking Thecniques, Web Applications Security, Design & Execution of DRP's
+- **Currently learning:** Ethical Hacking Techniques, Web Applications Security, Design & Execution of DRP's.
 
 ## Tech stack
 
@@ -65,7 +65,7 @@ I build web applications with security in mind from the first commit, not as an 
 
 ## Let's connect
 
-I'm open to opportunities in web development and security (internships and junior roles). If you're building something interesting or want to collaborate on open source, feel free to reach out by [email](mailto:barba3323@gmail.com) or [LinkedIn](https://www.linkedin.com/in/diego-barba-p4na309/).
+I'm open to opportunities in Web Development and Security (Internships and Junior roles). If you're building something interesting or want to collaborate on Open Source, feel free to reach out by [email](mailto:barba3323@gmail.com) or [LinkedIn](https://www.linkedin.com/in/diego-barba-p4na309/).
 
 <div align="center">
 <picture>
